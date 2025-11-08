@@ -1,0 +1,18 @@
+{
+  "generated_at": "2025-11-07T14:18:34.263530",
+  "files": [
+    "corr.png",
+    "daily_defaulters.csv",
+    "describe.csv",
+    "dtypes.csv",
+    "five_point_summary.csv",
+    "histograms.png",
+    "logistic_model_20251107T141831Z.joblib",
+    "model_report.json",
+    "nulls.csv",
+    "scaler_20251107T141831Z.joblib",
+    "target_counts.csv",
+    "target_counts.png",
+    "top_features.csv"
+  ]
+}
